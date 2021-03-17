@@ -1,5 +1,6 @@
 package com.firsproject;
 
+/* Describes the type of coffee that we're going to serve. */
 public enum CoffeeType {
     Espresso(7, 0),
     DoubleEspresso(14, 0),

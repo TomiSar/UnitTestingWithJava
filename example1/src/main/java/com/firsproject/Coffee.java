@@ -1,5 +1,6 @@
 package com.firsproject;
 
+/* Information about An individual coffee that has been served.*/
 public final class Coffee {
 
     private final CoffeeType type;
